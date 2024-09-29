@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Kiran</h1>
-<h3 align="center">Detail-oriented Web Developer proficient in building responsive, user-focused websites and applications using React.js, JavaScript, and modern web technologies. Passionate about solving complex problems through clean, scalable code, and eager to contribute to a collaborative team environment. Seeking to leverage technical skills in web development to create impactful, high-performance user experiences.</h3>
+<h5 align="center">Detail-oriented Web Developer proficient in building responsive, user-focused websites and applications using React.js, JavaScript, and modern web technologies. Passionate about solving complex problems through clean, scalable code, and eager to contribute to a collaborative team environment. Seeking to leverage technical skills in web development to create impactful, high-performance user experiences.</h5>
 
 - 🔭 I’m currently working on [VanLynk](https://vanlynk.onrender.com)
 
